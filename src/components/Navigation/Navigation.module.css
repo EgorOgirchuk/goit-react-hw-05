@@ -6,9 +6,6 @@
 }
 .link {
   font-size: 24px;
-  color: aqua;
-  &:hover,
-  &:focus {
-    color: rgb(109, 109, 245);
-  }
+  color: red;
+
 }

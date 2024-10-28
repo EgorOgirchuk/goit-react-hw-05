@@ -8,15 +8,14 @@
   width: 100px;
   height: 30px;
   outline: none;
-  color: aqua;
-  border: 1px solid aqua;
+  color: red;
   background-color: #5e5a5a;
-  &:hover,
-  &:focus {
-    color: rgb(109, 109, 245);
-    background-color: rgb(0, 0, 0);
-    border-color: rgb(109, 109, 245);
-  }
+  /*&:hover,*/
+  /*&:focus {*/
+  /*  color: rgb(109, 109, 245);*/
+  /*  background-color: rgb(0, 0, 0);*/
+  /*  border-color: rgb(109, 109, 245);*/
+  /*}*/
 }
 .list {
   display: flex;
@@ -26,10 +25,10 @@
 }
 .link {
   font-size: 24px;
-  color: aqua;
+  color: red;
   font-weight: 500;
-  &:hover,
-  &:focus {
-    color: rgb(109, 109, 245);
-  }
+  /*&:hover,*/
+  /*&:focus {*/
+  /*  color: rgb(109, 109, 245);*/
+  /*}*/
 }
